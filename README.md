@@ -1,6 +1,7 @@
 # Computer Vision in Remote Sensing
 ## Coastal erosion and shoreline change detection
-something something about Computer Vision for coastal erosion
+
+Computer Vision can detect changes in the coastline which is extremely important with storms and natural disasters becoming worse due to climate change. With this computer vision, we can detect what is changing the fastest and make a plan to mitigate such things.
 
 ![A gif of the coastline of Bangladesh Eroding.](https://developers.planet.com/blog/2022/Aug/04/eroding-coastlines-a-geospatial-and-computer-vision-analysis/images/20220804/Bangladesh-land-loss-animation.gif "Bangladesh Erosion")
 *Image sourced from Lacaille 2022.*
