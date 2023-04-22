@@ -9,6 +9,8 @@ Computer Vision can use change detection on coastlines all around the world whic
 
 Using Satellite data would be helpful for the global scale, but UAV data is better for small scale and high resolution data. The better the resolution, the better the computer is at detecting changes.
 
+According to students at Harvard, the artificial neural network maps the shoreline change better than both k-nearest neighbors and support vector machine in the world of machine learning.
+
 # Sources
 [Chapapría, V. E., Peris, J. S., & González-Escrivá, J. A. (2022). Coastal Monitoring Using Unmanned Aerial Vehicles (UAVs) for the Management of the Spanish Mediterranean Coast: The Case of Almenara-Sagunto. International Journal of Environmental Research and Public Health, 19(9), 5457. MDPI AG.](https://www.mdpi.com/1660-4601/19/9/5457)
 
