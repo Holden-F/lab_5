@@ -1,10 +1,13 @@
 # Computer Vision in Remote Sensing
 ## Coastal erosion and shoreline change detection
 
-Computer Vision can detect changes in the coastline which is extremely important with storms and natural disasters becoming worse due to climate change. With this computer vision, we can detect what is changing the fastest and make a plan to mitigate such things.
+Computer Vision can use change detection on coastlines all around the world which is extremely important with storms and natural disasters becoming worse due to climate change. With this computer vision, we can detect what is changing the fastest and make a plan to mitigate such things.
 
-![A gif of the coastline of Bangladesh Eroding.](https://developers.planet.com/blog/2022/Aug/04/eroding-coastlines-a-geospatial-and-computer-vision-analysis/images/20220804/Bangladesh-land-loss-animation.gif "Bangladesh Erosion")
-*Image sourced from Lacaille 2022.*
+| ![A gif of the coastline of Bangladesh Eroding.](https://developers.planet.com/blog/2022/Aug/04/eroding-coastlines-a-geospatial-and-computer-vision-analysis/images/20220804/Bangladesh-land-loss-animation.gif "Bangladesh Erosion") |
+|:--:|
+| *Gif of Bangladesh Coastline erosion sourced from Lacaille 2022.* |
+
+
 
 # Sources
 [Chapapría, V. E., Peris, J. S., & González-Escrivá, J. A. (2022). Coastal Monitoring Using Unmanned Aerial Vehicles (UAVs) for the Management of the Spanish Mediterranean Coast: The Case of Almenara-Sagunto. International Journal of Environmental Research and Public Health, 19(9), 5457. MDPI AG.](https://www.mdpi.com/1660-4601/19/9/5457)
