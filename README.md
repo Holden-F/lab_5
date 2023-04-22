@@ -3,6 +3,7 @@
 something something about Computer Vision for coastal erosion
 
 ![A gif of the coastline of Bangladesh Eroding.](https://developers.planet.com/blog/2022/Aug/04/eroding-coastlines-a-geospatial-and-computer-vision-analysis/images/20220804/Bangladesh-land-loss-animation.gif "Bangladesh Erosion")
+*Image sourced from Lacaille 2022.*
 
 # Sources
 [Chapapría, V. E., Peris, J. S., & González-Escrivá, J. A. (2022). Coastal Monitoring Using Unmanned Aerial Vehicles (UAVs) for the Management of the Spanish Mediterranean Coast: The Case of Almenara-Sagunto. International Journal of Environmental Research and Public Health, 19(9), 5457. MDPI AG.](https://www.mdpi.com/1660-4601/19/9/5457)
