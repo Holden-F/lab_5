@@ -1,7 +1,8 @@
 # Computer Vision in Remote Sensing
-### Coastal erosion and shoreline change detection
+## Coastal erosion and shoreline change detection
 something something about Computer Vision for coastal erosion
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 # Sources
 [Chapapría, V. E., Peris, J. S., & González-Escrivá, J. A. (2022). Coastal Monitoring Using Unmanned Aerial Vehicles (UAVs) for the Management of the Spanish Mediterranean Coast: The Case of Almenara-Sagunto. International Journal of Environmental Research and Public Health, 19(9), 5457. MDPI AG.](https://www.mdpi.com/1660-4601/19/9/5457)
