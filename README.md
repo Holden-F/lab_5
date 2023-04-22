@@ -1,6 +1,6 @@
 # Computer Vision in Remote Sensing
-
-something something about 
+##Coastal Erosion
+something something about Computer Vision for coastal erosion
 
 
 # Sources
