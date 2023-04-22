@@ -1,5 +1,5 @@
 # Computer Vision in Remote Sensing
-##Coastal Erosion##
+### Coastal erosion and shoreline change detection
 something something about Computer Vision for coastal erosion
 
 
